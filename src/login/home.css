@@ -1,0 +1,20 @@
+body
+{
+    background-color:khaki;
+}
+label
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:firebrick;
+}
+
+h1,h2 
+{   margin-top: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:midnightblue;
+}
+
+button
+{background-color:indianred;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
